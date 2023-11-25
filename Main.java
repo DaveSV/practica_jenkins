@@ -1,7 +1,7 @@
 class Main {
 
 	public static void main(String[] args){
-		System.out.println("Práctica Jenkins");
+		System.out.println("Práctica Jenkins!");
 	}
 
 }
